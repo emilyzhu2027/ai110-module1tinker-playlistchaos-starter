@@ -111,3 +111,16 @@ If you finish early or want an extra challenge, try one of these:
 - Stay curious. The unpredictability is intentional and part of the experience.
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
+
+-- 
+## TF Summary:
+### The core concept students needed to understand
+- How to utilize the AI assistant in VSCode effectively to identify and resolve bugs as well as refactor code to improve readability
+- How to effectively prompt and evaluate the code suggestions from the AI 
+### Where students are most likely to struggle
+- Identifying bugs in the behavior and finding where the logic for those bugs are in the code files
+### Where AI was helpful vs misleading
+- AI was helpful when: explaining the logic behind a snippet of code and giving a summary of potential fixes
+- AI was misleading when: trying to refactor for better readability because the AI would add complex functions inline functions that were hard to read
+### One way they would guide a student without giving the answer
+- Suggest prompting the AI to explain its logic when the AI returns an output that might seem confusing
